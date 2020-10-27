@@ -73,19 +73,19 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 
 
-* The package can be installed via npm:
--	npm install react-datepicker –save
+## The package can be installed via npm:
+*	npm install react-datepicker –save
 
 Or via yarn:
--	yarn add react-datepicker
+*	yarn add react-datepicker
 
-* properly import the lib:
+## properly import the lib:
 
 import DatePicker from 'react-datepicker';
 import 'react-datepicker/dist/react-datepicker.css'
 
-* To change date formate:
+## To change date formate:
 
-- dateFormat='dd/MM/yyyy'
+* dateFormat='dd/MM/yyyy'
 
-For reference go through Documentation - https://www.npmjs.com/package/react-datepicker
+## For reference go through Documentation - https://www.npmjs.com/package/react-datepicker
